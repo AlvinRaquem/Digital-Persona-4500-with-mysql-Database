@@ -1,0 +1,45 @@
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe.config
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbprojResolveAssemblyReference.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.CaptureForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.MainForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.Resources.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbproj.GenerateResource.Cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.EnrollmentForm.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe.config
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.exe
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.xml
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.pdb
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.exe
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.pdb
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\bin\Debug\EnrollmentSample VB.xml
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.CaptureForm.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.EnrollmentForm.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.MainForm.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.Resources.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\EnrollmentSample VB.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.SearchForm.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.ScreenLock.resources
+C:\Users\User\Desktop\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\VBNET\Enrollment\obj\Debug\Enrollment.KeyEvent.resources
+C:\Users\User\Desktop\Enrollment\bin\Debug\EnrollmentSample VB.exe.config
+C:\Users\User\Desktop\Enrollment\obj\Debug\EnrollmentSample VB.exe
+C:\Users\User\Desktop\Enrollment\obj\Debug\EnrollmentSample VB.xml
+C:\Users\User\Desktop\Enrollment\obj\Debug\EnrollmentSample VB.pdb
+C:\Users\User\Desktop\Enrollment\bin\Debug\EnrollmentSample VB.exe
+C:\Users\User\Desktop\Enrollment\bin\Debug\EnrollmentSample VB.pdb
+C:\Users\User\Desktop\Enrollment\bin\Debug\EnrollmentSample VB.xml
+C:\Users\User\Desktop\Enrollment\obj\Debug\EnrollmentSample VB.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.CaptureForm.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.EnrollmentForm.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.KeyEvent.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.MainForm.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.Resources.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.ScreenLock.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\Enrollment.SearchForm.resources
+C:\Users\User\Desktop\Enrollment\obj\Debug\EnrollmentSample VB.vbproj.GenerateResource.Cache
